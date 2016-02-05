@@ -1,0 +1,11 @@
+create libshaderc_combined.a
+addlib libshaderc.a
+addlib libSPIRV.a
+addlib libshaderc_util.a
+addlib libSPIRV-Tools.a
+addlib libglslang.a
+addlib libOGLCompiler.a
+addlib libOSDependent.a
+save
+end
+
